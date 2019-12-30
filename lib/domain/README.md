@@ -1,0 +1,1 @@
+The Domain stands to the Enterprise Business Rules and Entities

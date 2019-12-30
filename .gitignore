@@ -1,0 +1,9 @@
+vendor
+nms
+.vscode
+config/config.toml
+temp.html
+mail_test.go
+swagger.yaml
+_vendor*
+.idea/
